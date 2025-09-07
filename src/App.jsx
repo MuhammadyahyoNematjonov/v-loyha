@@ -132,7 +132,7 @@ const App = () => {
 
      {/* Hero Section */}
      <section className="relative h-96 bg-cover bg-center" >
-      <div className="absolute inset-0 bg-[url('./public/unsplash_2gDwlIim3Uw.png')] bg-cover bg-center h-[600px] "></div>
+      <div className="absolute inset-0 bg-[url('/unsplash_2gDwlIim3Uw.png')] bg-cover bg-center h-[600px] "></div>
        <div className="relative container mx-auto px-4 h-full flex flex-col justify-center items-center text-white">
          <h1 className="text-4xl md:text-6xl font-bold mb-4 text-center">
            Skyber Pool Paridiem
